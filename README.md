@@ -1,1 +1,1 @@
-Animated progress circular bar using the f html, css and javascript.
+Animated progress circular bar using HTML, CSS, and javascript.
